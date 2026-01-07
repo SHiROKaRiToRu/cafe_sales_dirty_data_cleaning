@@ -209,12 +209,3 @@ jupyter notebook cafe-sales-practice.ipynb
 This project is for educational and portfolio purposes.
 
 ---
-
-If you want, next I can:
-
-* Add **project screenshots**
-* Convert this into a **portfolio-ready case study**
-* Rewrite it for **Kaggle / LinkedIn / resume bullets**
-* Add **data quality metrics** (before vs after)
-
-Just say the word.
