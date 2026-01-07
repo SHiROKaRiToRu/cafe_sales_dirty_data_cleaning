@@ -1,0 +1,201 @@
+Transaction ID,Item,Quantity,Price Per Unit,Total Spent,Payment Method,Location,Transaction Date,Quantity_Inferred,Price Per Unit_Inferred,Total Spent_Inferred,Total_Spent_Valid
+TXN_2919952,Juice,5.0,3.0,15.0,Digital Wallet,In-store,2023-02-17,True,False,False,True
+TXN_4265056,Juice,1.0,3.0,3.0,Cash,Unknown,2023-07-16,False,False,False,True
+TXN_2463115,Sandwich,5.0,4.0,20.0,Credit Card,Takeaway,2023-09-12,False,False,False,True
+TXN_7619641,Juice,3.0,3.0,9.0,Unknown,In-store,2023-04-02,False,False,False,True
+TXN_9566593,Cake,2.0,3.0,6.0,Digital Wallet,Unknown,2023-09-30,False,False,False,True
+TXN_4835929,Coffee,2.0,2.0,4.0,Unknown,In-store,2023-10-03,False,False,False,True
+TXN_8320245,Tea,3.0,1.5,4.5,Unknown,Takeaway,2023-04-09,False,False,False,True
+TXN_3575713,Unknown,1.0,1.5,1.5,Cash,Takeaway,2023-02-18,True,False,False,True
+TXN_4383002,Coffee,1.0,2.0,2.0,Unknown,In-store,2023-12-18,False,False,False,True
+TXN_3656762,Sandwich,2.0,4.0,8.0,Unknown,Takeaway,2023-07-31,False,False,False,True
+TXN_1375992,Coffee,5.0,2.0,10.0,Credit Card,In-store,2023-03-23,False,False,False,True
+TXN_2201857,Smoothie,1.0,4.0,4.0,Unknown,Takeaway,2023-02-19,True,False,False,True
+TXN_2710603,Smoothie,5.0,4.0,20.0,Unknown,Takeaway,2023-02-02,False,False,False,True
+TXN_4677415,Cake,2.0,3.0,6.0,Digital Wallet,Unknown,2023-12-12,False,False,False,True
+TXN_3432433,Cookie,5.0,1.0,5.0,Cash,In-store,2023-02-19,False,False,False,True
+TXN_1721910,Juice,4.0,3.0,12.0,Digital Wallet,Unknown,2023-03-21,False,False,False,True
+TXN_3826038,Salad,1.0,5.0,5.0,Cash,Takeaway,2023-10-20,False,False,False,True
+TXN_4428252,Sandwich,3.0,4.0,12.0,Unknown,Takeaway,2023-10-31,False,False,False,True
+TXN_3202346,Salad,2.0,5.0,10.0,Unknown,In-store,2023-11-19,False,False,False,True
+TXN_5750248,Salad,4.0,5.0,20.0,Digital Wallet,In-store,2023-07-20,False,False,False,True
+TXN_9089045,Coffee,5.0,2.0,10.0,Cash,In-store,2023-03-12,True,False,False,True
+TXN_7051359,Coffee,5.0,2.0,10.0,Unknown,Unknown,2023-10-30,False,False,False,True
+TXN_5039782,Tea,3.0,1.5,4.5,Credit Card,Takeaway,2023-06-21,False,False,False,True
+TXN_7764175,Salad,3.0,5.0,15.0,Cash,In-store,2023-09-02,False,False,False,True
+TXN_8798330,Unknown,1.0,2.0,2.0,Unknown,In-store,2023-02-16,False,False,False,True
+TXN_4365321,Salad,4.0,5.0,20.0,Cash,In-store,2023-03-09,False,False,False,True
+TXN_5186460,Juice,3.0,3.0,9.0,Credit Card,Unknown,2023-11-07,False,False,False,True
+TXN_4431264,Smoothie,2.0,4.0,8.0,Unknown,Unknown,2023-11-14,False,False,False,True
+TXN_6660602,Unknown,4.0,5.0,20.0,Unknown,Takeaway,2023-05-20,False,False,False,True
+TXN_8973007,Coffee,5.0,2.0,10.0,Unknown,Takeaway,2023-02-07,False,False,False,True
+TXN_6795640,Cookie,4.0,1.0,4.0,Digital Wallet,Takeaway,2023-01-28,False,False,False,True
+TXN_9202496,Cake,5.0,3.0,15.0,Credit Card,In-store,2023-07-19,False,False,False,True
+TXN_1339158,Salad,4.0,5.0,20.0,Cash,Unknown,,False,False,False,True
+TXN_6755795,Smoothie,5.0,4.0,20.0,Cash,Unknown,2023-02-22,False,False,False,True
+TXN_8970187,Cake,1.0,3.0,3.0,Digital Wallet,Takeaway,2023-03-13,False,False,False,True
+TXN_4268167,Smoothie,4.0,4.0,16.0,Unknown,Unknown,2023-07-06,False,False,False,True
+TXN_7313328,Juice,1.0,3.0,3.0,Unknown,Takeaway,2023-01-03,False,False,False,True
+TXN_7803615,Salad,3.0,5.0,15.0,Cash,In-store,2023-12-13,False,False,False,True
+TXN_4509329,Tea,1.0,1.5,1.5,Unknown,Takeaway,2023-10-22,False,False,False,True
+TXN_8811945,Unknown,1.0,5.0,5.0,Unknown,Unknown,2023-02-18,False,False,False,True
+TXN_6361856,Cookie,5.0,1.0,5.0,Unknown,Unknown,2023-05-11,False,False,False,True
+TXN_9130559,Sandwich,1.0,4.0,4.0,Credit Card,Unknown,2023-05-28,False,False,False,True
+TXN_5530180,Cookie,5.0,1.0,5.0,Unknown,In-store,2023-09-06,False,False,False,True
+TXN_4657842,Unknown,5.0,1.0,5.0,Cash,Takeaway,2023-09-29,True,False,False,True
+TXN_2354774,Coffee,5.0,2.0,10.0,Unknown,In-store,,False,False,False,True
+TXN_6688524,Coffee,4.0,2.0,8.0,Unknown,Unknown,2023-06-29,False,False,False,True
+TXN_7894558,Coffee,2.0,2.0,4.0,Unknown,Unknown,2023-01-04,False,False,False,True
+TXN_5650608,Juice,1.0,3.0,3.0,Digital Wallet,Unknown,2023-06-25,True,False,False,True
+TXN_8092496,Juice,4.0,3.0,12.0,Unknown,In-store,2023-03-11,False,False,False,True
+TXN_3722720,Salad,2.0,5.0,10.0,Unknown,In-store,2023-06-27,False,False,False,True
+TXN_7180164,Sandwich,5.0,4.0,20.0,Cash,Takeaway,2023-01-05,True,False,False,True
+TXN_5315818,Salad,1.0,5.0,5.0,Digital Wallet,Unknown,2023-02-06,False,False,False,True
+TXN_2010658,Smoothie,3.0,4.0,12.0,Unknown,Unknown,2023-02-20,False,False,False,True
+TXN_4995281,Salad,4.0,5.0,20.0,Credit Card,Unknown,2023-02-25,False,False,False,True
+TXN_6751134,Sandwich,3.0,4.0,12.0,Unknown,Unknown,2023-01-12,False,True,False,True
+TXN_1103495,Juice,1.0,3.0,3.0,Cash,Takeaway,,False,False,False,True
+TXN_5005592,Coffee,1.0,2.0,2.0,Credit Card,In-store,2023-06-05,False,False,False,True
+TXN_6219977,Cookie,2.0,1.0,2.0,Credit Card,Unknown,2023-12-17,False,False,False,True
+TXN_1336900,Coffee,5.0,2.0,10.0,Credit Card,Unknown,2023-01-16,False,False,False,True
+TXN_9423451,Coffee,1.0,2.0,2.0,Unknown,Unknown,2023-10-22,False,True,False,True
+TXN_1022523,Salad,4.0,5.0,20.0,Cash,In-store,2023-11-25,False,False,False,True
+TXN_4958354,Sandwich,4.0,4.0,16.0,Credit Card,Takeaway,2023-05-01,False,True,False,True
+TXN_5438422,Smoothie,3.0,4.0,12.0,Unknown,In-store,2023-09-25,False,False,True,True
+TXN_9547091,Cookie,3.0,1.0,3.0,Credit Card,Unknown,2023-10-08,False,False,False,True
+TXN_1180969,Cookie,1.0,1.0,1.0,Digital Wallet,In-store,2023-01-06,False,False,True,True
+TXN_4389662,Smoothie,1.0,4.0,4.0,Cash,Takeaway,2023-08-09,False,False,False,True
+TXN_4624436,Sandwich,1.0,4.0,4.0,Unknown,Unknown,2023-05-22,False,False,False,True
+TXN_3507013,Juice,1.0,3.0,3.0,Digital Wallet,In-store,2023-01-16,False,True,False,True
+TXN_2462604,Tea,5.0,1.5,7.5,Credit Card,Unknown,2023-07-13,False,False,False,True
+TXN_7905741,Cookie,5.0,1.0,5.0,Credit Card,Unknown,2023-02-08,False,False,False,True
+TXN_6682253,Tea,5.0,1.5,7.5,Cash,In-store,2023-02-17,False,False,False,True
+TXN_8776606,Unknown,4.0,5.0,20.0,Digital Wallet,Takeaway,2023-07-24,False,False,False,True
+TXN_9822173,Cake,5.0,3.0,15.0,Digital Wallet,Unknown,2023-05-22,False,False,False,True
+TXN_8005089,Salad,4.0,5.0,20.0,Unknown,Unknown,2023-06-10,False,False,False,True
+TXN_7343905,Cake,1.0,3.0,3.0,Digital Wallet,In-store,2023-01-17,False,False,False,True
+TXN_1982031,Cookie,4.0,1.0,4.0,Cash,Takeaway,2023-02-03,False,False,False,True
+TXN_3945716,Tea,2.0,1.5,3.0,Unknown,Unknown,2023-09-17,False,False,False,True
+TXN_8211303,Salad,5.0,5.0,25.0,Unknown,Unknown,2023-08-26,False,False,False,True
+TXN_4623468,Coffee,5.0,2.0,10.0,Credit Card,Takeaway,,False,False,False,True
+TXN_8938663,Coffee,1.0,2.0,2.0,Digital Wallet,Unknown,2023-09-09,False,False,False,True
+TXN_7083611,Cake,2.0,3.0,6.0,Unknown,Unknown,2023-05-15,False,False,False,True
+TXN_2964638,Salad,2.0,5.0,10.0,Digital Wallet,In-store,2023-09-28,False,False,False,True
+TXN_8843108,Juice,5.0,3.0,15.0,Unknown,Unknown,2023-07-18,False,False,False,True
+TXN_6785552,Juice,5.0,3.0,15.0,Cash,Unknown,2023-01-19,False,False,False,True
+TXN_7738316,Cookie,4.0,1.0,4.0,Unknown,Unknown,2023-02-04,False,False,False,True
+TXN_6539480,Cake,5.0,3.0,15.0,Cash,Takeaway,2023-08-25,False,False,False,True
+TXN_7327440,Unknown,3.0,1.0,3.0,Cash,In-store,2023-05-02,False,False,False,True
+TXN_8676769,Salad,3.0,5.0,15.0,Digital Wallet,In-store,2023-06-16,True,False,False,True
+TXN_4051488,Cookie,4.0,1.0,4.0,Unknown,Takeaway,2023-06-09,False,False,False,True
+TXN_5712248,Sandwich,5.0,4.0,20.0,Unknown,Takeaway,2023-03-02,False,False,False,True
+TXN_6559598,Juice,1.0,3.0,3.0,Digital Wallet,Unknown,2023-05-08,False,False,False,True
+TXN_8065852,Sandwich,1.0,4.0,4.0,Credit Card,In-store,2023-07-17,False,False,False,True
+TXN_5985513,Unknown,2.0,4.0,8.0,Credit Card,Unknown,2023-08-02,True,False,False,True
+TXN_4907812,Sandwich,2.0,4.0,8.0,Digital Wallet,In-store,2023-08-11,True,False,False,True
+TXN_9105544,Tea,3.0,1.5,4.5,Unknown,In-store,2023-07-08,False,False,False,True
+TXN_4561006,Juice,3.0,3.0,9.0,Credit Card,Unknown,2023-11-23,False,False,False,True
+TXN_7519611,Unknown,4.0,1.5,6.0,Credit Card,In-store,2023-10-08,False,False,False,True
+TXN_1020478,Coffee,1.0,2.0,2.0,Digital Wallet,Takeaway,2023-03-09,False,False,False,True
+TXN_2396191,Juice,4.0,3.0,12.0,Credit Card,Unknown,2023-05-12,False,False,False,True
+TXN_2110490,Unknown,1.0,5.0,5.0,Cash,In-store,2023-08-29,False,False,False,True
+TXN_5969754,Tea,4.0,1.5,6.0,Unknown,Takeaway,2023-01-29,False,False,False,True
+TXN_1323030,Salad,4.0,5.0,20.0,Unknown,In-store,2023-03-30,False,False,False,True
+TXN_5216430,Cookie,3.0,1.0,3.0,Unknown,Unknown,2023-02-05,False,True,False,True
+TXN_3274591,Juice,5.0,3.0,15.0,Unknown,Takeaway,2023-04-09,False,False,False,True
+TXN_5744026,Salad,4.0,5.0,20.0,Unknown,Unknown,2023-04-03,False,False,False,True
+TXN_2518917,Cookie,1.0,1.0,1.0,Unknown,In-store,2023-05-21,False,False,False,True
+TXN_2255634,Salad,4.0,5.0,20.0,Unknown,Unknown,2023-04-09,False,False,False,True
+TXN_1529961,Smoothie,4.0,4.0,16.0,Credit Card,Unknown,2023-09-29,False,False,False,True
+TXN_5938359,Cookie,2.0,1.0,2.0,Credit Card,Unknown,2023-06-02,False,False,False,True
+TXN_2334523,Coffee,5.0,2.0,10.0,Digital Wallet,Takeaway,2023-08-17,True,False,False,True
+TXN_4325648,Juice,3.0,3.0,9.0,Digital Wallet,Takeaway,2023-05-04,False,False,False,True
+TXN_7241859,Cookie,1.0,1.0,1.0,Unknown,Unknown,,False,False,False,True
+TXN_6119612,Unknown,3.0,3.0,9.0,Cash,Unknown,2023-12-25,False,False,True,True
+TXN_3865224,Coffee,3.0,2.0,6.0,Unknown,Unknown,2023-07-25,False,False,False,True
+TXN_7371295,Unknown,3.0,3.0,9.0,Unknown,Unknown,2023-03-28,False,False,False,True
+TXN_5530717,Juice,1.0,3.0,3.0,Credit Card,In-store,2023-03-10,False,False,False,True
+TXN_5005999,Salad,4.0,5.0,20.0,Cash,Unknown,2023-01-09,False,False,False,True
+TXN_5740553,Salad,5.0,5.0,25.0,Unknown,In-store,2023-08-29,False,False,False,True
+TXN_4953063,Tea,5.0,1.5,7.5,Credit Card,Unknown,,False,True,False,True
+TXN_2880409,Tea,4.0,1.5,6.0,Cash,Unknown,2023-09-11,False,False,False,True
+TXN_6251282,Juice,4.0,3.0,12.0,Cash,Unknown,2023-11-15,False,False,False,True
+TXN_2080228,Juice,1.0,3.0,3.0,Unknown,In-store,2023-06-21,False,False,False,True
+TXN_8241649,Tea,5.0,1.5,7.5,Unknown,Unknown,2023-03-15,False,False,False,True
+TXN_1585329,Smoothie,4.0,4.0,16.0,Credit Card,Unknown,2023-07-16,False,False,False,True
+TXN_6425991,Salad,1.0,5.0,5.0,Credit Card,Takeaway,2023-08-06,False,False,False,True
+TXN_5765294,Cookie,4.0,1.0,4.0,Digital Wallet,In-store,2023-11-14,False,False,False,True
+TXN_1737731,Smoothie,5.0,4.0,20.0,Digital Wallet,Unknown,2023-06-29,False,False,False,True
+TXN_4650447,Tea,1.0,1.5,1.5,Cash,Unknown,2023-08-18,False,False,False,True
+TXN_7256205,Juice,4.0,3.0,12.0,Cash,Unknown,2023-04-08,False,False,True,True
+TXN_5669113,Sandwich,2.0,4.0,8.0,Unknown,Takeaway,2023-03-19,False,False,True,True
+TXN_6884558,Unknown,1.0,3.0,3.0,Cash,In-store,2023-08-14,False,False,True,True
+TXN_6228999,Cookie,5.0,1.0,5.0,Unknown,Unknown,2023-02-07,False,False,False,True
+TXN_4033802,Tea,3.0,1.5,4.5,Cash,Takeaway,2023-03-02,False,False,False,True
+TXN_4548715,Sandwich,2.0,4.0,8.0,Unknown,Unknown,2023-02-16,False,False,False,True
+TXN_9329112,Smoothie,3.0,4.0,12.0,Unknown,Unknown,,False,False,False,True
+TXN_1091243,Sandwich,2.0,4.0,8.0,Unknown,In-store,2023-01-06,False,False,False,True
+TXN_5220895,Salad,5.0,5.0,25.0,Cash,In-store,2023-06-10,False,False,False,True
+TXN_9362958,Juice,1.0,3.0,3.0,Cash,In-store,2023-07-19,False,False,False,True
+TXN_4125921,Juice,5.0,3.0,15.0,Credit Card,Unknown,2023-01-26,False,False,False,True
+TXN_1108326,Cake,2.0,3.0,6.0,Unknown,Takeaway,,False,False,True,True
+TXN_4368416,Salad,2.0,5.0,10.0,Credit Card,Takeaway,2023-02-24,False,False,False,True
+TXN_5575420,Smoothie,3.0,4.0,12.0,Unknown,In-store,2023-06-26,False,False,False,True
+TXN_6896663,Cake,3.0,3.0,9.0,Unknown,In-store,2023-05-16,False,False,False,True
+TXN_7710508,Unknown,5.0,1.0,5.0,Cash,Unknown,,False,False,False,True
+TXN_1524602,Unknown,3.0,2.0,6.0,Cash,Takeaway,2023-05-11,False,False,False,True
+TXN_3232227,Cookie,4.0,1.0,4.0,Unknown,Takeaway,2023-03-30,False,False,False,True
+TXN_4493878,Coffee,5.0,2.0,10.0,Credit Card,In-store,2023-03-11,False,True,False,True
+TXN_7085875,Juice,3.0,3.0,9.0,Digital Wallet,In-store,2023-08-23,False,False,False,True
+TXN_5067373,Cookie,3.0,1.0,3.0,Cash,Unknown,2023-10-18,False,False,False,True
+TXN_6922833,Tea,1.0,1.5,1.5,Unknown,Takeaway,2023-11-17,False,False,False,True
+TXN_4668762,Smoothie,3.0,4.0,12.0,Digital Wallet,Unknown,2023-03-10,False,False,False,True
+TXN_6036409,Tea,5.0,1.5,7.5,Cash,Takeaway,2023-02-16,False,False,False,True
+TXN_2468359,Unknown,2.0,5.0,10.0,Unknown,Unknown,2023-07-20,False,False,False,True
+TXN_4870483,Coffee,1.0,2.0,2.0,Unknown,Takeaway,2023-03-03,False,False,False,True
+TXN_9348801,Cake,1.0,3.0,3.0,Unknown,Unknown,2023-11-29,False,False,False,True
+TXN_9872258,Juice,4.0,3.0,12.0,Cash,Takeaway,2023-07-24,False,False,False,True
+TXN_4360906,Sandwich,2.0,4.0,8.0,Unknown,In-store,2023-06-11,False,False,False,True
+TXN_8927252,Unknown,2.0,1.0,2.0,Credit Card,Unknown,2023-11-06,False,False,True,True
+TXN_5145906,Tea,4.0,1.5,6.0,Unknown,Unknown,2023-01-30,False,False,False,True
+TXN_7876388,Cookie,4.0,1.0,4.0,Cash,In-store,2023-10-05,False,False,False,True
+TXN_7640952,Cake,4.0,3.0,12.0,Digital Wallet,Takeaway,,False,False,False,True
+TXN_8810001,Smoothie,5.0,4.0,20.0,Digital Wallet,Takeaway,2023-12-23,False,False,False,True
+TXN_2146829,Salad,4.0,5.0,20.0,Cash,Unknown,2023-12-26,False,False,False,True
+TXN_4512118,Coffee,2.0,2.0,4.0,Digital Wallet,Takeaway,2023-04-20,False,False,False,True
+TXN_3833729,Smoothie,4.0,4.0,16.0,Digital Wallet,In-store,2023-11-13,False,False,False,True
+TXN_3775339,Cookie,3.0,1.0,3.0,Credit Card,Unknown,2023-04-03,False,False,False,True
+TXN_5012988,Salad,3.0,5.0,15.0,Credit Card,Unknown,2023-08-17,False,False,True,True
+TXN_5283053,Juice,4.0,3.0,12.0,Digital Wallet,Unknown,2023-04-30,False,False,False,True
+TXN_2547156,Cookie,3.0,1.0,3.0,Digital Wallet,Takeaway,2023-08-18,False,False,False,True
+TXN_8689246,Sandwich,5.0,4.0,20.0,Credit Card,In-store,2023-05-16,False,False,False,True
+TXN_4125165,Coffee,5.0,2.0,10.0,Cash,Unknown,2023-04-16,False,False,False,True
+TXN_7595115,Sandwich,2.0,4.0,8.0,Unknown,Takeaway,2023-04-17,False,False,False,True
+TXN_8279269,Smoothie,4.0,4.0,16.0,Digital Wallet,Unknown,2023-06-14,False,False,False,True
+TXN_2345326,Cookie,3.0,1.0,3.0,Digital Wallet,Takeaway,2023-01-29,True,False,False,True
+TXN_4134594,Sandwich,3.0,4.0,12.0,Digital Wallet,In-store,2023-09-27,False,False,False,True
+TXN_7922392,Sandwich,3.0,4.0,12.0,Unknown,Unknown,2023-05-03,False,False,False,True
+TXN_1355212,Coffee,2.0,2.0,4.0,Unknown,Unknown,2023-05-25,False,False,False,True
+TXN_4247602,Salad,5.0,5.0,25.0,Credit Card,Takeaway,2023-07-13,False,False,False,True
+TXN_6779763,Cookie,1.0,1.0,1.0,Credit Card,Unknown,2023-04-25,False,False,True,True
+TXN_9928409,Sandwich,4.0,4.0,16.0,Credit Card,Unknown,2023-06-17,False,False,False,True
+TXN_1929109,Sandwich,5.0,4.0,20.0,Unknown,Unknown,,False,False,False,True
+TXN_1188596,Juice,1.0,3.0,3.0,Cash,Unknown,2023-10-24,False,False,False,True
+TXN_1173155,Coffee,1.0,2.0,2.0,Cash,In-store,2023-03-14,False,False,False,True
+TXN_9875865,Cookie,3.0,1.0,3.0,Digital Wallet,Unknown,2023-10-23,False,False,True,True
+TXN_9038745,Smoothie,3.0,4.0,12.0,Unknown,Takeaway,2023-06-25,False,False,False,True
+TXN_4755860,Juice,5.0,3.0,15.0,Digital Wallet,In-store,2023-10-28,False,False,False,True
+TXN_9759896,Tea,4.0,1.5,6.0,Unknown,Unknown,2023-12-02,False,False,False,True
+TXN_2920578,Smoothie,4.0,4.0,16.0,Cash,Unknown,2023-09-06,False,False,False,True
+TXN_4243591,Cake,4.0,3.0,12.0,Credit Card,In-store,2023-10-11,False,False,False,True
+TXN_2108894,Sandwich,4.0,4.0,16.0,Credit Card,In-store,2023-10-30,False,False,False,True
+TXN_3632558,Coffee,2.0,2.0,4.0,Cash,Takeaway,2023-08-10,False,True,False,True
+TXN_3315026,Juice,5.0,3.0,15.0,Cash,Unknown,2023-11-06,False,False,False,True
+TXN_6017458,Unknown,5.0,5.0,25.0,Credit Card,Unknown,2023-04-23,False,False,False,True
+TXN_5032114,Sandwich,2.0,4.0,8.0,Unknown,Unknown,2023-05-31,False,False,False,True
+TXN_5010968,Smoothie,2.0,4.0,8.0,Digital Wallet,Unknown,2023-12-03,False,False,False,True
+TXN_5345258,Salad,2.0,5.0,10.0,Credit Card,Takeaway,2023-03-13,False,False,False,True
+TXN_3713976,Juice,2.0,3.0,6.0,Unknown,Takeaway,2023-11-06,False,False,False,True
+TXN_6034920,Cookie,1.0,1.0,1.0,Credit Card,In-store,2023-09-09,False,False,False,True
+TXN_9890874,Sandwich,5.0,4.0,20.0,Cash,In-store,2023-09-02,False,False,False,True
+TXN_3358787,Cake,1.0,3.0,3.0,Digital Wallet,Unknown,2023-06-10,False,False,False,True
